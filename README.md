@@ -63,7 +63,7 @@ git push origin master
 
 # 3.工作区和版本库
 
-> 版本库里主要有 ==暂存区（stage）==、分支（master)、
+> 版本库里主要有 暂存区（stage）、分支（master)、
 
 <img src="https://www.liaoxuefeng.com/files/attachments/919020037470528/0" alt="git-repo" style="zoom: 150%;" />
 
