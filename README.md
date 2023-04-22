@@ -7,6 +7,7 @@ git commit -m "xxx"
 git status
 git remote add origin git@server-name:path/repo-name.git
 git push -u origin master
+git pull --rebase origin master
 git push origin master
 ```
 
